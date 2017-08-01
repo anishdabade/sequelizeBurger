@@ -14,11 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-   "use_env_variable": "DATABASE_URL",
-   "username": "ss7fezdfx39pzh6o",
-   "password": "irixpa1tsu05xb86",
-   "database": "tz4vodn851hcewn3",
-   "host": "powerful-eyrie-17952.herokuapp.com",
-   "dialect": "postgres"
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
   }
 }
